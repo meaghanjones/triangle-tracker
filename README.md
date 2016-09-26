@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a triangle tracker application made to practice js. A user can enter the measurment of three sides of a triangle to know what type it is (equilateral, isosceles, scalene, or not a triangle). 
+This is a triangle tracker application made to practice js. A user can enter the measurement of three sides of a triangle to know what type it is (equilateral, isosceles, scalene, or not a triangle). 
 
 ## Setup/Installation Requirements
 
